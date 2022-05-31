@@ -26,6 +26,7 @@
 		18F78E902846675D00B9DAA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18F78E932846675D00B9DAA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18F78E952846675D00B9DAA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18F78E9B2846676E00B9DAA6 /* 001-Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "001-Variables.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		18F78E782846675D00B9DAA6 = {
 			isa = PBXGroup;
 			children = (
+				18F78E9B2846676E00B9DAA6 /* 001-Variables.playground */,
 				18F78E832846675D00B9DAA6 /* test */,
 				18F78E822846675D00B9DAA6 /* Products */,
 			);
